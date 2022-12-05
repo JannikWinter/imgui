@@ -54,3 +54,8 @@ examples/example_sdl_metal/example_sdl_metal
 examples/example_sdl_opengl2/example_sdl_opengl2
 examples/example_sdl_opengl3/example_sdl_opengl3
 examples/example_sdl_sdlrenderer/example_sdl_sdlrenderer
+
+## Custom stuff
+/*.vcxproj
+/*.vcxproj.filters
+/obj/
